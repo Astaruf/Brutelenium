@@ -47,7 +47,7 @@ python script.py -t http://192.168.1.1/login -u admin -P /path/to/passwords.txt 
 
 2. Install the required Python packages:
     ```sh
-    python3 -m pip install selenium
+    pip install selenium
     ```
 
 3. Download and place the Chrome WebDriver in your PATH:
