@@ -41,13 +41,13 @@ python script.py -t http://192.168.1.1/login -u admin -P /path/to/passwords.txt 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/automated-login-script.git
-    cd automated-login-script
+    git clone git@github.com:Astaruf/Brutelenium.git
+    cd Brutelenium
     ```
 
 2. Install the required Python packages:
     ```sh
-    pip install selenium
+    python3 -m pip install selenium
     ```
 
 3. Download and place the Chrome WebDriver in your PATH:
